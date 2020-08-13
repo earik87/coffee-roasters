@@ -4,7 +4,7 @@ Coffee Roaster | Location | Notes
 -------------- | -------- | ------
 [Bocca Coffee](https://www.bocca.nl/) | Amsterdam | 
 [Monks Coffee](https://monkscoffee.nl) | Amsterdam | 
-[Caffènation](https://caffenation.be/) | Amsterdam | <sup>Originally from belgium.</sup>
+[Caffènation](https://caffenation.be/) | Amsterdam |
 [White Label Coffee](https://whitelabelcoffee.nl/) | Amsterdam |
 [Back to Black Coffee](https://backtoblackcoffee.nl/)  | Amsterdam |
 [Lot61](https://lotsixtyone.com/) | Amsterdam |
