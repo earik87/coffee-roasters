@@ -1,4 +1,4 @@
-## List of coffee roasters
+## List of coffee roasters in Netherlands. 
 
 Coffee Roaster | Location | Notes
 -------------- | -------- | ------
