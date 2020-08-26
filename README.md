@@ -12,3 +12,11 @@ Coffee Roaster | Location | Notes
 [Drupa Coffee](http://www.drupacoffee.com/) | Amsterdam |
 [Screaming Beans](https://screamingbeans.nl/en/) | Amsterdam |
 [Darras Coffee Roasters](https://darrascoffeeroasters.nl/) | Amsterdam |
+[Vascobelo](https://www.vascobelo.be/) | Amsterdam |
+
+[Doppio Espresso](https://www.doppio-espresso.nl/shop/) | Hilversum |
+[Simon Levelt](https://www.simonlevelt.nl/) | Hilversum |
+[Vascobelo](https://www.vascobelo.be/) | Hilversum |
+
+[Dagger Coffee](https://daggercoffee.nl/) | Utrecht |
+[Keen Coffee](https://keencoffee.com/) | Utrecht |
