@@ -1,4 +1,5 @@
 ## List of coffee roasters in Netherlands. 
+All the roasters below have webshop that allows online-ordering. 
 
 Coffee Roaster | Location | Notes
 -------------- | -------- | ------
