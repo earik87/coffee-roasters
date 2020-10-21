@@ -18,5 +18,7 @@ Coffee Roaster | Location | Notes
 [Simon Levelt](https://www.simonlevelt.nl/) | Hilversum |
 [Vascobelo](https://www.vascobelo.be/) | Hilversum |
  | | 
+[Frans de Grebber](https://fransdegrebber.nl/) | Meppel |
+ | | 
 [Dagger Coffee](https://daggercoffee.nl/) | Utrecht |
 [Keen Coffee](https://keencoffee.com/) | Utrecht |
